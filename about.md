@@ -7,6 +7,7 @@ titles:
   zh-Hant: 關於
 key: page-about
 anti-pirate: false
+comment: false
 ---
 
 关注 linux , 安全 , 编程 , python
